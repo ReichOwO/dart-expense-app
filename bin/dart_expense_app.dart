@@ -1,5 +1,11 @@
-import 'package:dart_application/dart_application.dart' as dart_application;
+void showAll(){
 
-void main(List<String> arguments) {
-  print('Hello world: ${dart_application.calculate()}!');
+}
+void totalPaid(){
+
+}
+void main() {
+  print ("Expense tracking app");
+   showAll();
+   totalPaid();
 }
